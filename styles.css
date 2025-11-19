@@ -1,0 +1,41 @@
+body {
+    background-color: darkslateblue;
+    color: azure;
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+.hand1 {
+   width: 50vw; 
+   height: 20vh;
+   background-color: dimgray;
+   border: solid white 2px;
+   text-align: center;
+   padding-bottom: 2vh;
+   margin-left: 25vw;
+}
+
+.field {
+    width: 80vw;
+    height: 20vh;
+    background-color: darkseagreen;
+    border: solid white 2px;
+    text-align: center;
+    padding-bottom: 2vh;
+    margin-left: 10vw;
+    margin-top: 10vw;
+}
+
+.hand2 {
+    width: 50vw; 
+    height: 20vh;
+    background-color: dimgray;
+    border: solid white 2px;
+    text-align: center;
+    padding-bottom: 2vh;
+    margin-left: 25vw;
+    margin-top: 10vw;
+}
